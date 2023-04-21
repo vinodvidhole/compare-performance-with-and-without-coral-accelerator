@@ -1,4 +1,6 @@
-#follow this guide
+#follow this guide frist 
+#https://coral.ai/docs/accelerator/get-started
+    
 import time
 import numpy as np
 import tflite_runtime.interpreter as tflite
